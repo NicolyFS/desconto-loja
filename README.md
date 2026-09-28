@@ -1,4 +1,4 @@
-# Sistema de Desconto Progressivo — Loja Online
+# Sistema de Desconto — Loja 
 
 Programa em Python que calcula o desconto aplicável a uma compra com base no valor total informado pelo usuário, seguindo uma tabela de descontos progressivos.
 
@@ -16,7 +16,7 @@ O sistema solicita o valor total da compra e aplica automaticamente o percentual
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido como atividade da disciplina **Desenvolvimento de Sistemas I**, com o objetivo de praticar o uso de **estruturas condicionais encadeadas** (`if` / `elif` / `else`) em Python.
+Este projeto foi desenvolvido como atividade com o objetivo de praticar o uso de (`if` / `elif` / `else`) em Python.
 
 ## 🛠️ Tecnologias
 
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como atividade da disciplina **Desenvolvimento de 
    ```bash
    python3 --version
    ```
-2. Clone este repositório ou baixe o arquivo `desconto.py`.
+2. Clone este repositório 
 3. Execute o programa pelo terminal:
    ```bash
    python3 desconto.py
@@ -57,12 +57,7 @@ O programa segue o modelo **Entrada → Processamento → Saída**:
    - O valor do desconto e o valor final são calculados com base nesse percentual.
 3. **Saída**: exibe um resumo da compra com valor original, desconto aplicado, valor do desconto e valor final a pagar.
 
-## 📁 Estrutura de arquivos
 
-```
-.
-├── desconto.py
-└── README.md
 ```
 
 ## ✍️ Autor
